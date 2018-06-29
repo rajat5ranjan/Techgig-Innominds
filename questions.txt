@@ -1,0 +1,429 @@
+Need Ethernet access
+Need a LAN Cable
+Need a laptop Conector.
+Need a mouse
+Mouse replacement is needed.
+Status Changed
+
+Status Changed
+Create new account and share the username and password
+USB Enabling
+Collaborators added by end user
+
+
+Ticket Marked Overdue
+Ticket Assigned to Nagaraju Mochi
+Ticket Assigned to Hari Neelam
+
+
+Request to create login credentials for Mr. Koti
+Request to create login credentials for Dr. Hasan
+FW: Myspace Login Issue-- Ania
+Login credetials are not working.
+Ticket Updated
+Ticket Assigned to Shijil Kumar Aynoli
+Ticket Marked Overdue
+Ticket Assigned to Shijil Kumar Aynoli
+
+
+
+
+
+
+Not able to proceed further in ticket.abc.com after logging in
+New Account is needed for a new joinee.
+Re: Unable to access outlook and myspace [user id: sdash]
+
+
+Ticket Assigned to Shijil Kumar Aynoli
+Ticket Marked Overdue
+Collaborators added by end user
+Collaborators added by end user
+Ticket Assigned to Pavan Kumar Thukuntla
+
+
+
+
+Collaborators added by end user
+
+Removing Person A and Adding Person B to ABC Project
+Collaborators added by end user
+Ticket Assigned to Shijil Kumar Aynoli
+
+
+
+Ticket Marked Overdue
+Ticket Updated
+
+Ticket Assigned to Shijil Kumar Aynoli
+Ticket Assigned to Kumara Swamy Annepu
+Ticket Marked Overdue
+Ticket Assigned to Pavan Kumar Thukuntla
+Ticket Marked Overdue
+Ticket Marked Overdue
+
+Ticket Assigned to Pavan Kumar Thukuntla
+
+Status Changed
+Ticket Marked Overdue
+Ticket Updated
+Ticket Marked Overdue
+Ticket Updated
+
+Ticket Updated
+
+Name Correction in mail id
+Collaborators added by end user
+
+Request to configure the system to share it among users
+Ticket Assigned to Vinod Kumar Reddy Dendi
+Ticket Updated
+
+Ticket Updated
+Ticket Assigned to Vinod Kumar Reddy Dendi
+Ticket Marked Overdue
+Ticket Updated
+
+Collaborators added by end user
+Ticket Assigned to Shashi Kumar Raju Hasthi
+Ticket Marked Overdue
+
+Ticket Assigned to Sandeep Reddy Jakkidi
+Unable to connect to internet using wifi network inn009
+Needs permission wifi access to laptop
+Collaborators added by end user
+Ticket Assigned to Pavan Kumar Thukuntla
+
+
+Collaborators added by end user
+
+
+Status Changed
+Ticket Marked Overdue
+
+Status Changed
+Ticket Assigned to Sandeep Reddy Jakkidi
+Need Wifi Access Approval
+Need abc FTP Server Details
+Collaborators added by end user
+Ticket Assigned to Sandeep Reddy Jakkidi
+
+Status Changed
+Need administration acess for installing softwares in my system
+Collaborators added by end user
+
+LAN not working in a VM
+Collaborators added by end user
+Ticket Assigned to Shashi Kumar Raju Hasthi
+Collaborators added by end user
+Ticket Assigned to Sandeep Reddy Jakkidi
+
+Need Wave rock VPN
+Jira project creation and user permission
+Collaborators added by end user
+Ticket Assigned to Sandeep Reddy Jakkidi
+
+Status Changed
+
+Status Changed
+
+Ticket Assigned to Shashi Kumar Raju Hasthi
+
+Status Changed
+Public IP Address for Coffee House project 
+Wifi access needed.
+server#11 got hanged and needed a restart
+Ticket Marked Overdue
+Ticket Assigned to Janardhana Rao Vemulapalli
+
+Status Changed
+
+Ticket Assigned to Janardhana Rao Vemulapalli
+Ticket Updated
+
+Linux VM for Azuba project
+
+Ticket Assigned to Shashi Kumar Raju Hasthi
+
+Login credetials are not working, says username or password wrong.
+Collaborators added by end user
+Ticket Updated
+
+Status Changed
+
+Status Changed
+
+Status Changed
+Ticket Assigned to N V R S Surya Narayana Garlapati
+Ticket Marked Overdue
+Collaborators added by end user
+Install Microsoft outlook
+Ticket Assigned to Vinod Kumar Reddy Dendi
+Ticket Updated
+
+Collaborators added by end user
+Ticket Assigned to Sandeep Reddy Jakkidi
+Ticket Assigned to Sandeep Reddy Jakkidi
+My Space QA application is down
+
+Status Changed
+
+
+New Collaborator Added
+New Collaborator Added
+
+
+
+
+
+Ticket Assigned to Sandeep Reddy Jakkidi
+
+Status Changed
+Configure outlook in my system
+Mailbox is full 
+Login Page is not getting displayed
+Prvide me the admini privileges to install mysql database
+Prvide me the admini privileges to install mysql database
+Collaborators added by end user
+Ticket Assigned to Vinod Kumar Reddy Dendi
+Ticket Updated
+
+Ticket Assigned to Sandeep Reddy Jakkidi
+Ticket Marked Overdue
+Install postgres database on my machine
+System showing blue screen on startup
+Unable to install outlook, it is asking for admin access needed
+Desktop not working
+Collaborators added by end user
+Ticket Marked Overdue
+Ticket Assigned to Nagaraju Mochi
+
+Status Changed
+
+Ticket Marked Overdue
+Ticket Marked Overdue
+
+Ticket Assigned to Kishore Babu Ganesana
+
+Status Changed
+Ticket Assigned to Shijil Kumar Aynoli
+
+
+Ticket Assigned to Kishore Babu Ganesana
+System behaving strangely, blue screen is appearing in middle
+My Internet is not working
+Ticket Assigned to Kishore Babu Ganesana
+
+Collaborators added by end user
+
+Status Changed
+Collaborators added by end user
+Ticket Assigned to Anil Kumar Thanjavuru
+
+
+Ticket Marked Overdue
+Ticket Marked Overdue
+
+
+
+Collaborators added by end user
+
+Status Changed
+
+Account got locked, because of 3 wrong attempts os password. Could you please reset the password
+
+System hangs with blue screen on startup
+Collaborators added by end user
+
+Ticket Assigned to Janardhana Rao Vemulapalli
+Unable to connect to internet using wifi network inn009
+Ticket Assigned to Shijil Kumar Aynoli
+
+
+Collaborators added by end user
+Ticket Assigned to N V R S Surya Narayana Garlapati
+
+Status Changed
+Collaborators added by end user
+
+Ticket Assigned to Anil Kumar Thanjavuru
+Ticket Marked Overdue
+
+Ticket Marked Overdue
+Ticket Marked Overdue
+Ticket Marked Overdue
+Ticket Assigned to Janardhana Rao Vemulapalli
+Ticket Marked Overdue
+Ticket Assigned to Pavan Kumar Thukuntla
+Unable to connect to Internet
+Facing network/internet issue with wifi xwq090
+
+
+
+
+Collaborators added by end user
+Ticket Assigned to Shijil Kumar Aynoli
+
+Status Changed
+Collaborators added by end user
+
+Ticket Assigned to Kishore Babu Ganesana
+
+Status Changed
+Status Changed
+
+Collaborators added by end user
+Replace the battery for my Macbook laptop
+Collaborators added by end user
+
+Ticket Assigned to Pavan Kumar Thukuntla
+
+File Import Error
+File Import Error
+Collaborators added by end user
+New Collaborator Added
+New Collaborator Added
+
+Status Changed
+Ticket Assigned to Shijil Kumar Aynoli
+New Ticket by Agent
+
+Status Changed
+Collaborators added by end user
+Ticket Assigned to Shijil Kumar Aynoli
+
+Ticket Assigned to Kishore Babu Ganesana
+New Ticket by Agent
+
+File Import Error
+Collaborators added by end user
+Ticket Assigned to Nagaraju Mochi
+
+Status Changed
+File Import Error
+
+
+Status Changed
+Collaborators added by end user
+
+Status Changed
+Collaborators added by end user
+
+Status Changed
+
+Status Changed
+Computer is not getting switched on
+Collaborators added by end user
+
+Status Changed
+Ticket Marked Overdue
+Ticket Updated
+Ticket Assigned to Kishore Babu Ganesana
+Creation of mail id for new Joinee 
+Ticket Assigned to Pavan Kumar Thukuntla
+
+Status Changed
+Ticket Updated
+Ticket Assigned to Nagaraju Mochi
+New Collaborator Added
+
+Status Changed
+Collaborators added by end user
+Ticket Assigned to N V R S Surya Narayana Garlapati
+
+
+Forgot the password, can you please reset the password for me.
+Ticket Assigned to Shijil Kumar Aynoli
+
+Status Changed
+
+Ticket Assigned to Sandeep Reddy Jakkidi
+
+New Ticket by Agent
+
+Ticket Marked Overdue
+
+MySpace Password Expiry
+Ticket Assigned to N V R S Surya Narayana Garlapati
+Ticket Updated
+Ticket Marked Overdue
+Ticket Updated
+
+Status Changed
+Ticket Marked Overdue
+Ticket Updated
+
+Status Changed
+Collaborators added by end user
+Ticket Assigned to Shashi Kumar Raju Hasthi
+Ticket Updated
+Ticket Marked Overdue
+
+Login Page Down
+Status Changed
+Ticket Marked Overdue
+Ticket Assigned to Jagan Muddupati
+
+Status Changed
+
+
+Ticket Assigned to N V R S Surya Narayana Garlapati
+
+Status Changed
+Ticket Marked Overdue
+Ticket Updated
+Ticket Assigned to Shashi Kumar Raju Hasthi
+
+Status Changed
+Collaborators added by end user
+Ticket Assigned to Shashi Kumar Raju Hasthi
+Ticket Marked Overdue
+
+Status Changed
+
+Status Changed
+Collaborators added by end user
+Ticket Marked Overdue
+Ticket Updated
+Ticket Assigned to N V R S Surya Narayana Garlapati
+Ticket Assigned to Sandeep Reddy Jakkidi
+
+Status Changed
+Ticket Assigned to Sandeep Reddy Jakkidi
+
+Status Changed
+install MS office
+Login Page not opening
+Password expired.
+Account locked. Not able to login
+Login Page is not getting displayed
+Login Page Down
+Login Page not opening
+Login Page is not showing up.
+
+Login credetials are not working.
+Forgot the password, can you please reset the password for me.
+Password expired.
+FW: Myspace Login Issue
+Please reset mypassword.It is expired.
+
+Account got locked, because of 3 wrong attempts os password. Could you please reset the password
+Account locked. Not able to login
+
+Create new account and share the username and password
+New Account is needed for a new joinee.
+New Account Creation for user Tom.
+
+Needs permission wifi access to laptop
+Wifi access needed.
+Need to connect to Wifi.
+Unable to connect to Internet
+
+How can I Delete Internet Cookies
+
+Not able to send and receive emails
+
+Computer is not getting switched on
+Computer not powering up
+
+Volume Icon is not showing in right corner
